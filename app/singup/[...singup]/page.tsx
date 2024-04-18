@@ -1,5 +1,6 @@
 export default function () {
     return <>
-        hello dinamic routing
+        hello dinamic routing sad to be the dimaminc
+
     </>
 }
